@@ -1,5 +1,6 @@
 ---
 title: Symbol totem
+keywords: nunu
 ---
 
 The symbols in the totem needs to be placed in correct order.
