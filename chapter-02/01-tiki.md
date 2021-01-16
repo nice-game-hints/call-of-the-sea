@@ -33,7 +33,7 @@ There is an emblem with the sea creatures related to each hut, and thus the tiki
  - The last hut, near the grave does not seem to have the emblem at all.
 
 # Hint about the grave hut
-Note the _shape_ of the emblems on other huts. ^[ Go into the hut to see the _back_ of the gravestone. There you can see the **fish** embelm.
+Note the _shape_ of the emblems on other huts. ^[ Go into the hut to see the _back_ of the gravestone. There you can see the **fish** emblem. ]
 ![Grave hut](grave_hut.jpg)
 
 # Hint
