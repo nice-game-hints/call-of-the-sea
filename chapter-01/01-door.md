@@ -18,8 +18,8 @@ Look closely the picture. There's flowers.
 
 # Hint
 Go back a bit. There you find the area with the flower offering and the loose flower.
-![Flower offering](flower_offering.png)
+![Flower offering](flower_offering.jpg)
 
 # Hint
 It is under the stone slab next to the loose flower arrangment.
-![Slab](flower_slab.png)
+![Slab](flower_slab.jpg)
