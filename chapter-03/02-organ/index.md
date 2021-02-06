@@ -7,7 +7,7 @@ title: The organ
 You have to set everything in correct order and push the big middle button to solve this puzzle. Look closely around the area to find all seven switches for the valves. Every switch has one symbol.
 
 # Hint
-Did you find the piano? ^[ The piano is at the *back* camp. ] It works when you [switch on the electricity](../electricity.md). 
+Did you find the piano? ^[ The piano is at the *back* camp. ] It works when you [switch on the electricity](../01-electricity.md). 
 
 # Hint
 Every key in the piano corresponds to a three digit number. Nora will write these down into the journal. ^[ Play all the keys to get all the numbers. ]
