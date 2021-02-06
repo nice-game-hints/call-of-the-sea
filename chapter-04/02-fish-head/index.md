@@ -21,10 +21,7 @@ Read the wallet. ^[ Rotating the "north" in th wheel defines in which quadrant t
 
 # Hint
 Try to roate the wheels so that you can create the found combinations.
- - God's Blood ^[ ![Gods blood](gods_blood.jpg) ]
- - Eternal Life ^[ ![Eternal life](eternal_life.jpg) ]
- - Water Animal ^[ ![Water animal](water_animal.jpg) ]
- - Destined Inevitable Transformation ^[ ![Destined inevitable transformation](destined_inevitable.jpg) ]
+![combined symbols](combined_symbols.jpg)
 
 # Hint
 For example, the Transformation should be like this.
