@@ -26,5 +26,5 @@ Now that you know all the symbols and their meanings put the symbols in correct 
 Look behind the symbol totem.
 ![Behind the totem](totem_behind.jpg)
 
-# Spoiler
+## Spoiler
 ![Totem order](totem_correct.jpg)
