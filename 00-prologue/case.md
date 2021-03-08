@@ -14,5 +14,5 @@ Look at the photograph of Norah's house.
 # Hint
 Remember its address.
 
-# Spoiler
+## Spoiler
 The combination is 506.
