@@ -11,7 +11,7 @@ You have to connect the wheel to the generator.
 Pull from the levers.
 ![Levers](levers.jpg)
 
-# Hint
+## Hint
 You get the levers to move from the other side.
 
 # Hint
