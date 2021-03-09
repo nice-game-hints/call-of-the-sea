@@ -29,5 +29,5 @@ One of the star tiles is bigger than others.
 Starting from the big star follow the drawing.
 ![Constellation drawing](constellation_drawing.jpg)
 
-# Show the solution
+## Show the solution
 ![Correct stars](correct_stars.jpg)
