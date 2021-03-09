@@ -16,7 +16,7 @@ In the box you find a note showing where the top is.
 # Hint
 Look closely the picture. There's flowers.
 
-# Hint
+## Spoiler
 Go back a bit. There you find the area with the flower offering and the loose flower.
 ![Flower offering](flower_offering.jpg)
 
