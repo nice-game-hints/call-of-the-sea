@@ -10,7 +10,7 @@ Follow what the system is telling you. Listen closely (you need to have sound on
 # Hint
 I will show you now the correct sequences.
 
-# Hint
+## Spoiler
  1. middle
  2. left, right
  3. middle, right, left
