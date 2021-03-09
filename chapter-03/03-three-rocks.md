@@ -23,6 +23,6 @@ Then experiment and try to get them all in the middle. Remember:
  - Middle knob moves *first* and *second* rock
  - Right knob moves *second* and *third* rock
 
-# Spoiler
+## Spoiler
 Reset all the knobs. Then move all of them (no matter the order) *four clicks* up.
 ![Correct knobs](correct_knobs.jpg)
