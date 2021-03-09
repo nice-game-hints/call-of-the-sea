@@ -53,7 +53,7 @@ It tells you how the symbols should be *tuned* according to the tide height.
 # Hint
 So, turn on the symbols for 262, 349, 415 turned into correct ones.
 
-# Spoiler
+## Spoiler
 The organ should look like this:
 ![Correct organ](correct_organ.jpg)
 
