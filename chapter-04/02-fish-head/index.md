@@ -23,14 +23,11 @@ Read the wallet. ^[ Rotating the "north" in th wheel defines in which quadrant t
 Try to roate the wheels so that you can create the found combinations.
 ![combined symbols](combined_symbols.jpg)
 
-# Hint
+## First solution
 For example, the Transformation should be like this.
 ![Transformation](transformation.jpg)
 
-# Hint
-I will next show the others.
-
-# Hint
+## Rest of the solutions
 Liquid:
 ![Liquid](liquid.jpg)
 Life:
