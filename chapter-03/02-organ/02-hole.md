@@ -28,5 +28,5 @@ Nora keeps a *journal*, doesn't she.
 # Hint
 Read the current date from the Log. ^[ It is November 7th, 1934. ]
 
-# Spoiler
+## Spoiler
 According to the calendar it is new moon today. Put the hole totally shut.
