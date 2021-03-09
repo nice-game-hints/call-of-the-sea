@@ -17,15 +17,15 @@ It is important which way the strange symbol is.
 # Hint
 By pushing the stones down you denote where the slabs symbols belongs.
 
-# Hint
+## First solution
 For example, the slab with the two circle symbol should be in right. So push down the right stone.
 ![Circle Slab](circle_slab.jpg)
 
-# Hint
+## Two more
 Here's two more
 ![Line slab](line_slab.jpg)
 ![Side Slab](side_slab.jpg)
 
-# Hint
+## The last one
 One of the slabs is behind the fallen rocks. Go down to find it.
 ![Fallen slab](fallen_slab.jpg)
