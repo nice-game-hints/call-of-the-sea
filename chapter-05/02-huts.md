@@ -19,11 +19,11 @@ There is a column with one of the symbols (the hands).
 # Hint
 Look around the column. Look at the symbols to mark them in the diary.
 
-# Hint
+## Hint
 Push the buttons near the huts in the symbol order from bottom to top.
 ![Symbol order](symbol_order.jpg)
 
-# Hint
+## Hint
  1. White hands hut
  2. Yellow hands hut
  3. Red hands hut
