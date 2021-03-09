@@ -17,7 +17,7 @@ When you look throug the holes on the discs you can light up "stars". Notice esp
 Try to create this constellation first:
 ![First constellation](constellation_1.jpg)
 
-# Hint
+## Hint
 Here's how it should look when you look at it from the stairs with the eye-star.
 ![First constellation solution](constellation_solution_1.jpg)
 
@@ -28,7 +28,7 @@ When you go behind the first door you get more tattoos and can activate differen
 Try to create this constellation next:
 ![Second constellation](constellation_2.jpg)
 
-# Hint
+## Hint
 Here's how it should look when you look at it from the stairs with the eye-star.
 ![Second constellation solution](constellation_solution_2.jpg)
 
