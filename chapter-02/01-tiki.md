@@ -42,5 +42,5 @@ You should now have four tikis associated with four emblems. Remember to look al
 # Hint
 Move the movable tiki's four parts according to the correct order. ^[ The order is shown in the solved paper and in the journal. So, first disc is from the turtle tiki, second one is from the fish tiki etc. ]
 
-# Show the solution
+## Show the solution
 ![Solved tiki](solved_tiki.jpg)
