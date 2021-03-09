@@ -1,5 +1,5 @@
 ---
-title: Chaning the current gate
+title: Changing the current in the gate
 ---
 
 The gate flows water to either one direction.
