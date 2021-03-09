@@ -14,6 +14,6 @@ That is the constellation.
 Here's a helping picture:
 ![Throne constellation](throne_constellation_drawing.jpg)
 
-# Hint
+## Solution
 Here's how it should look when you look at it from the stairs with the eye-star.
 ![Throne constellation solution](constellation_solution_throne.jpg)
