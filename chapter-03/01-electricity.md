@@ -14,8 +14,8 @@ Go into the ship and find the main switches. ^[ Up the ladder and left. ]
 You have to turn the levers on in correct order. ^[ You have to try out. ]
 ![Main switch](main_switch.jpg)
 
-# Spoiler
+## Spoiler
 The correct order is (from left): third, second, fourth, first.
 
-# Hint
+# Next
 Then follow the lines and switch on the smaller boxes. There are four of them (including the first one next to the main unit.)
