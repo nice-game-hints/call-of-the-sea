@@ -42,6 +42,6 @@ You have to burn the holes according to the drawings.
 # Hint
 You have to burn the holes into *one lens* so that it contains *all* the black spots from Nora's drawings.
 
-# Show the solution
+## Show the solution
 ![Correct lens aligner](lens_aligner.jpg)
 Take the lens.
