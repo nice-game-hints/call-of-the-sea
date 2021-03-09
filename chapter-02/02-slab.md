@@ -11,7 +11,7 @@ It is missing a piece. Go explore and try to find the piece.
 # Hint
 You have to solve other puzzles, first.
 
-# Hint
+## Hint
 Solve the [movable tiki](01-tiki.md).
 
 # Solution
