@@ -3,6 +3,7 @@ title: Call of the Sea
 author: Juho Rutila
 keywords: call, sea
 praise: https://www.buymeacoffee.com/jrutila
+praiseModal: s2
 released: 2021-02-06
 ---
 
