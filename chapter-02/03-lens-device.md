@@ -28,7 +28,7 @@ Approach the one *eye* that is dripping the black ooze. Look at it.
 Look around. Is there another eye dripping now, too? ^[ ![Second eye](second_eye.jpg) ]
 
 # Hint
-And a third one. ^[ [Third eye](third_eye.jpg) ]
+And a third one. ^[ ![Third eye](third_eye.jpg) ]
 
 # Hint
 She drew the three eyes, with their *pupils* into the journal.
